@@ -4,7 +4,7 @@ title: "git memo"
 permalink: /docs/git-memo
 ---
 
-#ソフトウェア工学2024
+# ソフトウェア工学2024
 講義で学んだことをmarkdown形式でまとめる．
 
 ## git
@@ -13,8 +13,8 @@ permalink: /docs/git-memo
 ・変更した箇所に戻ることができる
 ・他人と共同編集できる
 
-###　主なコマンド
-git init
+### 主なコマンド
+git init<br>
 gitの初期化・設定開始
 git status
 ワークツリーのステータスを表示
