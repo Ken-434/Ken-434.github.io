@@ -14,7 +14,7 @@ permalink: /docs/git-memo
 ・他人と共同編集できる
 
 ### 主なコマンド
-git init<br>
+git init
 gitの初期化・設定開始
 git status
 ワークツリーのステータスを表示
